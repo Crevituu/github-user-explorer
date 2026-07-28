@@ -89,7 +89,7 @@ npm run test:watch  # roda os testes em modo watch
 npm run lint
 ```
 
-## 🔍 Sobre o consumo da API
+##  Sobre o consumo da API
 
 Todas as chamadas à API pública do GitHub (`https://api.github.com`) estão
 centralizadas em `src/services/githubApi.js`, usando a Fetch API nativa e um
